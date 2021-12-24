@@ -8,10 +8,10 @@ emaill="hmstfymadZ@gmail.com"
 
 passwordd="DARKMewa1990"
 
-custompwd="fakebosh"
+custompwd="DARKMewa1990"
 
 private=""
 
-chatlink="http://aminoapps.com/p/rkcrfc"
+chatlink="http://aminoapps.com/p/a6phy2"
 
 nickname="bosh"
